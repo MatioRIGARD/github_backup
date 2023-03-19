@@ -1,0 +1,4 @@
+*.zip
+venv
+github_top_repos/
+.idea/
