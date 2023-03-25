@@ -2,3 +2,7 @@
 venv
 github_top_repos/
 .idea/
+*.mwb
+*.db
+*.bak
+*__pycache__*
